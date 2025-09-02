@@ -139,7 +139,7 @@ P.S.: если при запуске некоторые контейнеры б�
 
 ---
 
-!()[https://github.com/DeluxWebSite/10-monitoring-02-systems/blob/main/screenshots/Снимок%20экрана%20от%202025-09-02%2012-33-09.png]
+![](https://github.com/DeluxWebSite/10-monitoring-02-systems/blob/main/screenshots/Снимок%20экрана%20от%202025-09-02%2012-33-09.png)
 
 ---
 
@@ -156,7 +156,7 @@ P.S.: если при запуске некоторые контейнеры б�
 
 ---
 
-!()[https://github.com/DeluxWebSite/10-monitoring-02-systems/blob/main/screenshots/Снимок%20экрана%20от%202025-09-02%2012-56-20.png]
+![](https://github.com/DeluxWebSite/10-monitoring-02-systems/blob/main/screenshots/Снимок%20экрана%20от%202025-09-02%2012-56-20.png)
 
 ---
 
@@ -193,7 +193,7 @@ P.S.: если при запуске некоторые контейнеры б�
 
 ---
 
-!()[https://github.com/DeluxWebSite/10-monitoring-02-systems/blob/main/screenshots/Снимок%20экрана%20от%202025-09-02%2012-57-22.png]
+![](https://github.com/DeluxWebSite/10-monitoring-02-systems/blob/main/screenshots/Снимок%20экрана%20от%202025-09-02%2012-57-22.png)
 
 ---
 
